@@ -13,8 +13,7 @@ du module « Projet Informatique » du semestre 6 de la licence informatique de 
 
 Ce projet a donc pour but de fournir aux utilisateurs une application qui permettra d’une part de visualiser et
 de manipuler des graphes orientés ainsi que leurs données, et d’autre part d’exécuter des algorithmes de graphes afin
-d’aider les utilisateurs à résoudre différents problèmes.
-
+d’aider les utilisateurs à résoudre différents problèmes.f
 Certaines contrainte ont été imposées dès le début du projet.Nous nous sommes forcer à bien les respecter durant
 la phase de développement :
 
@@ -36,8 +35,8 @@ partiels.
 
 ###  Pour Windows
 
-> Pour compiler et exécuter le programme sur Windows,Il faudra être en possession de certains fichiers et suivre les
-instructions suivantes :
+  Pour compiler et exécuter le programme sur Windows,Il faudra être en possession de certains fichiers et suivre les
+  instructions suivantes :
 	
 				1. Récupérer le programme ( " git clone https://bitbucket.org/projet_s6/projet_universitaire-application-de-manipulation-de-graphes/src ")
 
@@ -73,7 +72,7 @@ instructions suivantes :
 	
 ### Pour Linux
 
-> Pour compiler et exécuter le programme sur Linux,Il faudra être en possession de certains paquets et suivre les
+  Pour compiler et exécuter le programme sur Linux,Il faudra être en possession de certains paquets et suivre les
   instructions suivantes :
 	
 				1. Dans l’idéal,avoir Qt installé sur sa machine en le téléchargeant sur le site officiel
