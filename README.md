@@ -5,7 +5,7 @@
 Les graphes sont actuellement considérés comme un outil très puissant de modélisation de problèmes plus ou moins
 complexes qui trouvent leurs applications dans plusieurs domaines, tels que l’informatique, le traitement d’images, la
 recherche opérationnelle, la biologie, la chimie, l’écologie et autres.De ce fait ,un environnement informatique dédié
-aux graphes peut s’avérer d’une très grande utilité pour les chercheurs ou autre personne désirant travailler sur des
+aux graphes peut s’avérer d’une très grande utilité pour les chercheurs ou autres personnes désirant travailler sur des
 graphes.
 
 Le projet “Manipulation de graphes orientés et sous graphes partiels” nous a été attribué dans le cadre
@@ -13,8 +13,8 @@ du module « Projet Informatique » du semestre 6 de la licence informatique de 
 
 Ce projet a donc pour but de fournir aux utilisateurs une application qui permettra d’une part de visualiser et
 de manipuler des graphes orientés ainsi que leurs données, et d’autre part d’exécuter des algorithmes de graphes afin
-d’aider les utilisateurs à résoudre différents problèmes.f
-Certaines contrainte ont été imposées dès le début du projet.Nous nous sommes forcer à bien les respecter durant
+d’aider les utilisateurs à résoudre différents problèmes.
+Certaines contraintes ont été imposées dès le début du projet. Nous nous sommes forcés à bien les respecter durant
 la phase de développement :
 
 > • L’application doit fournir une interface graphique en permettant à l’utilisateur de visualiser des graphes orientés
@@ -26,8 +26,8 @@ pendants les uns des autres.
 > • L’application devra fournir des mécanismes de sélections des sommets pour pouvoir traiter des sous graphes
 partiels.
 
-> • L’application devra gérer un nombre de graphe quelconque.
-> • Les sommets du graphes doivent porter au moins un numéro et deux coordonnées dans le plan.
+> • L’application devra gérer un nombre de graphes quelconques.
+> • Les sommets du graphe doivent porter au moins un numéro et deux coordonnées dans le plan.
 > • Certains sommets du graphe peuvent être sélectionnées pour définir un graphe partiel restreint à la sélection
 	de l’utilisateur.
 	
